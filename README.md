@@ -112,19 +112,15 @@ Registra o envio de um novo Kudo (de um usuário de origem para um de destino).
 
 Este projeto está em desenvolvimento ativo e contínuo, servindo como base para aplicação de padrões arquiteturais avançados. Os próximos passos incluem:
 
-$$$$
 
  Fase 1 (Arquitetura Limpa): Implementação da Camada de Serviços (@Service), isolando lógicas de negócio dos Controllers.
 
-$$$$
 
  Fase 2 (Segurança de Dados): Criação de DTOs (Data Transfer Objects) e implementação de Bean Validation para sanitização de entradas.
 
-$$$$
 
  Fase 3 (Segurança): Autenticação e Autorização utilizando Spring Security e JWT.
 
-$$$$
 
  Fase 4 (Infraestrutura): Containerização da aplicação com Docker (Dockerfile).
 
